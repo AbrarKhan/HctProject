@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="student_name">
+        <item>Balqees Said</item>
+        <item>Asma Saleh</item>
+        <item>Basmah Hamed</item>
+    </string-array>
+
+    <integer-array name="sudent_image">
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+    </integer-array>
+
+</resources>
